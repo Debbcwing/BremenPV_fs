@@ -16,7 +16,3 @@
 - See Workflow.ipynb for an overview of this study
 
 <br><br>
-
-
-
-![alt text](Figures/ÖstlicheVorstadt.png)
