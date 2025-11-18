@@ -7,7 +7,6 @@
 *.efx
 *.gbr
 *.key
-*.png
 *.pps
 *.ppt
 *.pptx
@@ -16,11 +15,13 @@
 *.vcf
 *.xml
 *.docx
+*.geojson
 
 
 Figures/
 Submission/
 Ref/
+comments.md
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
